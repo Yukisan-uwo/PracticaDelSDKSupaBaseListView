@@ -16,11 +16,15 @@
 
 ## 📸 Resultados (Screenshots)
 
-| Lista de Estudiantes (A-C) | Lista de Estudiantes (J-K) | Entorno de Desarrollo |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/TuUsuario/TuRepositorio/main/screenshots/resultado1.png" width="250" alt="Resultados 1"> | <img src="https://raw.githubusercontent.com/TuUsuario/TuRepositorio/main/screenshots/resultado2.png" width="250" alt="Resultados 2"> | <img src="https://raw.githubusercontent.com/TuUsuario/TuRepositorio/main/screenshots/ide_view.png" width="250" alt="Android Studio"> |
+<img width="406" height="899" alt="image" src="https://github.com/user-attachments/assets/461193f8-e46c-4c0c-9849-a6de792a0986" />
 
-> *Nota: Asegúrate de guardar tus capturas en una carpeta llamada `/screenshots` en la raíz del repo para que se vean correctamente.*
+---
+
+<img width="406" height="899" alt="image" src="https://github.com/user-attachments/assets/6962038a-e766-4440-8318-4b6ee66f4d5d" />
+
+---
+
+<img width="946" height="535" alt="image" src="https://github.com/user-attachments/assets/99be12d0-1633-4013-b325-e4100df228cc" />
 
 ---
 
